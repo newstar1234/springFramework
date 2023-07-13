@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import com.exapmle.ex00.dependency.qualifier.Restaurant;
+// 혼자 할 때 import가 안되어서 method 사용이 안되었음. 다시 혼자해보면서 확인 꼭 하기!
 
 import lombok.extern.log4j.Log4j;
 
